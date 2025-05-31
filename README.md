@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hello World
 
-<img src="https://github.com/user-attachments/assets/29547e66-c54b-48b0-b97b-9db3c67b7f96" width="50" height="50">
+
+
+<img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="50" height="50">
 
 
 
@@ -10,7 +12,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...![JavaScript-logo](https://github.com/user-attachments/assets/993d11b5-b71b-42dc-94cb-1f4b6358e5b2)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
