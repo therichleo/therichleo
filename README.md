@@ -3,7 +3,7 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 
 ### 💻 Languages I use:
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="30" height="30">
-<img src="https://github.com/user-attachments/assets/49e91cec-020b-4444-b2d4-d75c25bb5ae9" width="30" height="30">
+<img src="https://github.com/user-attachments/assets/49e91cec-020b-4444-b2d4-d75c25bb5ae9" width="30" height="40">
 
 
 
