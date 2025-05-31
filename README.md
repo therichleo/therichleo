@@ -1,7 +1,7 @@
 ## Hello World
+I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Software Engineering. I'm passionate about programming and mathematics, and I'm currently working on both personal and academic projects.
 
-
-
+### 💻 Languages I use:
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="50" height="50">
 
 
