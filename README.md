@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<img src="https://github.com/user-attachments/assets/29547e66-c54b-48b0-b97b-9db3c67b7f96" width="50" height="50">
+
+
+
+
 <!--
 **therichleo/therichleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
