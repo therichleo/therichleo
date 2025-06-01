@@ -9,14 +9,8 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/41842e9f-b5d9-466d-b40b-e187824c8631" width="60" height="30">
 <img src="https://github.com/user-attachments/assets/a687c399-96f5-488a-9f2c-a39a7d33d849" width="40" height="40"> 
-<img src="https://github.com/user-attachments/assets/8a8bd545-4bd4-4e9b-8e5e-31642acd56e6" width="40" height="40"> 
 
-
-
-
-
-
-#### 🧰 Tools I use
+#### 🧰 Tools I use:
 <img src="https://github.com/user-attachments/assets/014d7899-bda0-4711-a8cd-a1a3d1664d4e" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/ae4948e1-bb44-49ed-b336-f84bddc584cc" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/72b49707-fd80-443e-aed4-de63ddb53eeb" width="40" height="40"> 
@@ -24,9 +18,9 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/2d46f592-a504-4f7a-a2e0-ed1cb4cd6832" width="40" height="40">
 
+#### 🧱 Frameworks I use:
 
-
-<img src="https://github.com/user-attachments/assets/49e91cec-020b-4444-b2d4-d75c25bb5ae9" width="30" height="32">
+<img src="https://github.com/user-attachments/assets/49e91cec-020b-4444-b2d4-d75c25bb5ae9" width="38" height="40">
 
 
 
