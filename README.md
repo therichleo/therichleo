@@ -4,7 +4,7 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 ### 💻 Technical Skills
 #### 🧑‍💻 Languages I use:
 
-<img src="https://github.com/user-attachments/assets/4a60990c-afd7-41e3-b477-223397f891a4" width="400" height="40"> 
+<img src="https://github.com/user-attachments/assets/4a60990c-afd7-41e3-b477-223397f891a4" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/c637f312-f21c-4c99-9fd9-406bc869d47b" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/41842e9f-b5d9-466d-b40b-e187824c8631" width="60" height="30">
