@@ -27,6 +27,11 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/112c8456-a40a-423a-9239-10de85b5789f" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/0365fe17-a34c-451d-97a4-f7d8892a4d4d" width="40" height="40">
 
+#### 🖥️ Operating Systems I use:
+<img src="https://github.com/user-attachments/assets/60ada24f-d405-46ba-a6dd-d7bec1975adb" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/0546d77f-5e84-4a9c-a599-5d500dd5b601" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/99c50937-a032-4db0-88bc-58f57045f04f" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/9f23f5c5-d01a-44da-acae-a55878b3a03a" width="40" height="40">
 
 
 
