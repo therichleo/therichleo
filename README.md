@@ -8,6 +8,13 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/c637f312-f21c-4c99-9fd9-406bc869d47b" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/41842e9f-b5d9-466d-b40b-e187824c8631" width="60" height="30">
+<img src="https://github.com/user-attachments/assets/a687c399-96f5-488a-9f2c-a39a7d33d849" width="40" height="40"> 
+<img src="https://github.com/user-attachments/assets/8a8bd545-4bd4-4e9b-8e5e-31642acd56e6" width="40" height="40"> 
+
+
+
+
+
 
 #### 🧰 Tools I use
 <img src="https://github.com/user-attachments/assets/014d7899-bda0-4711-a8cd-a1a3d1664d4e" width="40" height="40">
