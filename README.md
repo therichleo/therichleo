@@ -13,9 +13,9 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/4a60990c-afd7-41e3-b477-223397f891a4" width="30" height="30"> 
 <img src="https://github.com/user-attachments/assets/c637f312-f21c-4c99-9fd9-406bc869d47b" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="30" height="30">
-<img src="https://github.com/user-attachments/assets/41842e9f-b5d9-466d-b40b-e187824c8631" width="60" height="30">
-<img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="60" height="30">
-<img src="https://github.com/user-attachments/assets/2d46f592-a504-4f7a-a2e0-ed1cb4cd6832" width="60" height="30">
+<img src="https://github.com/user-attachments/assets/41842e9f-b5d9-466d-b40b-e187824c8631" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/2d46f592-a504-4f7a-a2e0-ed1cb4cd6832" width="40" height="40">
 
 
 
