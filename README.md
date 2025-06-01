@@ -10,11 +10,6 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/41842e9f-b5d9-466d-b40b-e187824c8631" width="30" height="30">
 
 
-![Sql_data_base_with_logo-2]()
-
-
-
-
 <img src="https://github.com/user-attachments/assets/49e91cec-020b-4444-b2d4-d75c25bb5ae9" width="30" height="32">
 
 
