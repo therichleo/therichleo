@@ -21,8 +21,8 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 #### 🧱 Frameworks I use:
 
 <img src="https://github.com/user-attachments/assets/49e91cec-020b-4444-b2d4-d75c25bb5ae9" width="38" height="40">
-
-
+<img src="https://github.com/user-attachments/assets/6cfc7cbf-8657-4353-8535-5318343b1b1f" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/218fde31-b919-453c-bfb0-ed3ab4e46208" width="40" height="40">
 
 
 ### 🌐 Connect with me:
