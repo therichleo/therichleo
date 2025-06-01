@@ -3,7 +3,6 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 
 ### 💻 Technical Skills
 #### 🧑‍💻 Languages I use:
-
 <img src="https://github.com/user-attachments/assets/4a60990c-afd7-41e3-b477-223397f891a4" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/c637f312-f21c-4c99-9fd9-406bc869d47b" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="40" height="40">
@@ -19,10 +18,17 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/2d46f592-a504-4f7a-a2e0-ed1cb4cd6832" width="40" height="40">
 
 #### 🧱 Frameworks I use:
-
 <img src="https://github.com/user-attachments/assets/49e91cec-020b-4444-b2d4-d75c25bb5ae9" width="38" height="40">
 <img src="https://github.com/user-attachments/assets/6cfc7cbf-8657-4353-8535-5318343b1b1f" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/218fde31-b919-453c-bfb0-ed3ab4e46208" width="40" height="40">
+
+#### 🔌 Networking / Realtime Libraries:
+<img src="https://github.com/user-attachments/assets/c0822d9d-1c03-45cb-ac3a-f251ce631dc7" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/112c8456-a40a-423a-9239-10de85b5789f" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/0365fe17-a34c-451d-97a4-f7d8892a4d4d" width="40" height="40">
+
+
+
 
 
 ### 🌐 Connect with me:
