@@ -39,6 +39,8 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 
 ### 🌐 Connect with me:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" />](https://www.instagram.com/leonardo.valdesss)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="30" />](https://open.spotify.com/user/31ultevzsfdfyds2nuzithcjxvbq?si=b7239dc5b2a3494f)
+
 
 
 <!--
