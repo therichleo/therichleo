@@ -5,7 +5,7 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 #### Languages do I use:
 
 <img src="https://github.com/user-attachments/assets/4a60990c-afd7-41e3-b477-223397f891a4" width="30" height="30"> (POO)
-<img src="https://github.com/user-attachments/assets/c637f312-f21c-4c99-9fd9-406bc869d47b" width="30" height="30"> (EDA)
+<img src="https://github.com/user-attachments/assets/c637f312-f21c-4c99-9fd9-406bc869d47b" width="40" height="40"> (EDA)
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="30" height="30">
 <img src="https://github.com/user-attachments/assets/49e91cec-020b-4444-b2d4-d75c25bb5ae9" width="30" height="32">
 
