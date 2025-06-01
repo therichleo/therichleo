@@ -33,12 +33,12 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/99c50937-a032-4db0-88bc-58f57045f04f" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/9f23f5c5-d01a-44da-acae-a55878b3a03a" width="40" height="40">
 
-#### 🧩 Template Engines
+#### 🧩 Template Engines:
 <img src="https://github.com/user-attachments/assets/59c913de-573f-4d45-8e44-c322215d9f58" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/b320e795-b1a6-495c-afa5-d85d30d7930d" width="40" height="40">
 
 ### 🌐 Connect with me:
-
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" />](https://www.instagram.com/leonardo.valdesss)
 
 
 <!--
