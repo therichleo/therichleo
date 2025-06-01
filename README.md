@@ -10,10 +10,10 @@ I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Soft
 <img src="https://github.com/user-attachments/assets/41842e9f-b5d9-466d-b40b-e187824c8631" width="60" height="30">
 
 #### 🧰 Tools I use
+<img src="https://github.com/user-attachments/assets/014d7899-bda0-4711-a8cd-a1a3d1664d4e" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/ae4948e1-bb44-49ed-b336-f84bddc584cc" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/72b49707-fd80-443e-aed4-de63ddb53eeb" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/96ddd397-fc86-46df-b7e8-96fa8e203fa1" width="40" height="40">
-<img src="https://github.com/user-attachments/assets/014d7899-bda0-4711-a8cd-a1a3d1664d4e" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/2d46f592-a504-4f7a-a2e0-ed1cb4cd6832" width="40" height="40">
 
