@@ -1,5 +1,5 @@
 ## Hello World
-I'm **Leonardo Valdes**, a 3rd-year university student from Chile, studying Software Engineering. I'm passionate about programming and mathematics, and I'm currently working on both personal and academic projects.
+I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Software Engineering. I'm passionate about programming and mathematics, and I'm currently working on both personal and academic projects.
 
 ### 💻 Technical Skills
 #### 🧑‍💻 Languages I use:
