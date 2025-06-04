@@ -40,4 +40,5 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 ### 🌐 Connect with me:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />](https://www.instagram.com/leonardo.valdesss)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40" />](https://open.spotify.com/user/31ultevzsfdfyds2nuzithcjxvbq?si=b7239dc5b2a3494f)
-[<img src="https://github.com/user-attachments/assets/53e174e5-0105-4b7e-b0bd-b60fc052961c" width="40" />]((https://www.linkedin.com/in/leonardo-miguel-manuel-valdés-lizana-b8447a366/))
+[<img src="https://github.com/user-attachments/assets/53e174e5-0105-4b7e-b0bd-b60fc052961c" width="40" />](https://www.linkedin.com/in/leonardo-miguel-manuel-valdés-lizana-b8447a366/)
+
