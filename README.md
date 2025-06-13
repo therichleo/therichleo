@@ -8,7 +8,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/a687c399-96f5-488a-9f2c-a39a7d33d849" width="40" height="40"> 
 
-### 🗄 BDD I use:
+#### 🗄 BDD I use:
 <img src="https://github.com/user-attachments/assets/72b49707-fd80-443e-aed4-de63ddb53eeb" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/ab492bea-7d41-4727-a8aa-36c85e110900" width="60" height="40"> 
 
@@ -35,7 +35,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/99c50937-a032-4db0-88bc-58f57045f04f" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/9f23f5c5-d01a-44da-acae-a55878b3a03a" width="40" height="40">
 
-### 👃🏻 Packer sniffer i use:
+#### 👃🏻 Packer sniffer i use:
 <img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="40" height="40">
 
 
@@ -43,7 +43,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/59c913de-573f-4d45-8e44-c322215d9f58" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/b320e795-b1a6-495c-afa5-d85d30d7930d" width="40" height="40">
 
-### 🌐 Connect with me:
+#### 🌐 Connect with me:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />](https://www.instagram.com/leonardo.valdesss)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="40" />](https://open.spotify.com/user/31ultevzsfdfyds2nuzithcjxvbq?si=b7239dc5b2a3494f)
 [<img src="https://github.com/user-attachments/assets/53e174e5-0105-4b7e-b0bd-b60fc052961c" width="40" />](https://www.linkedin.com/in/leonardo-miguel-manuel-valdés-lizana-b8447a366/)
