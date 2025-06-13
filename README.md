@@ -12,7 +12,6 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/72b49707-fd80-443e-aed4-de63ddb53eeb" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/ab492bea-7d41-4727-a8aa-36c85e110900" width="70" height="40"> 
 
-
 #### 🧰 Tools I use:
 <img src="https://github.com/user-attachments/assets/014d7899-bda0-4711-a8cd-a1a3d1664d4e" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/ae4948e1-bb44-49ed-b336-f84bddc584cc" width="40" height="40"> 
@@ -35,9 +34,8 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/99c50937-a032-4db0-88bc-58f57045f04f" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/9f23f5c5-d01a-44da-acae-a55878b3a03a" width="40" height="40">
 
-#### 👃🏻 Packer sniffer i use:
+#### 👃🏻 Packer sniffer I use:
 <img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="40" height="40">
-
 
 #### 🧩 Template Engines:
 <img src="https://github.com/user-attachments/assets/59c913de-573f-4d45-8e44-c322215d9f58" width="40" height="40">
