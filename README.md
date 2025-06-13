@@ -8,7 +8,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/13dabca1-bb92-4c53-b717-e59b69dfe150" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/a687c399-96f5-488a-9f2c-a39a7d33d849" width="40" height="40"> 
 
-### 🗄 BDD i use:
+### 🗄 BDD I use:
 <img src="https://github.com/user-attachments/assets/72b49707-fd80-443e-aed4-de63ddb53eeb" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/ab492bea-7d41-4727-a8aa-36c85e110900" width="60" height="40"> 
 
@@ -17,7 +17,6 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/014d7899-bda0-4711-a8cd-a1a3d1664d4e" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/ae4948e1-bb44-49ed-b336-f84bddc584cc" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/96ddd397-fc86-46df-b7e8-96fa8e203fa1" width="40" height="40">
-<img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/2d46f592-a504-4f7a-a2e0-ed1cb4cd6832" width="40" height="40">
 
 #### 🧱 Frameworks I use:
@@ -25,7 +24,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/6cfc7cbf-8657-4353-8535-5318343b1b1f" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/218fde31-b919-453c-bfb0-ed3ab4e46208" width="40" height="40">
 
-#### 🔌 Networking / Realtime Libraries:
+#### 🔌 Networking/Realtime I use:
 <img src="https://github.com/user-attachments/assets/c0822d9d-1c03-45cb-ac3a-f251ce631dc7" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/112c8456-a40a-423a-9239-10de85b5789f" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/0365fe17-a34c-451d-97a4-f7d8892a4d4d" width="40" height="40">
@@ -37,6 +36,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/9f23f5c5-d01a-44da-acae-a55878b3a03a" width="40" height="40">
 
 ### 👃🏻 Packer sniffer i use:
+<img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="40" height="40">
 
 
 #### 🧩 Template Engines:
