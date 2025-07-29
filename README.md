@@ -37,8 +37,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 #### 👃🏻 Packer sniffer I use:
 <img src="https://github.com/user-attachments/assets/e9815ac6-7db0-4202-acf4-ff7e7e0a792a" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/06856a13-b700-4270-a892-caca299dcbe1" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/8fce9af8-8ef0-4879-87ec-9cb9e3026544" width="70" height="65">
-
+<img src="https://github.com/user-attachments/assets/cceed310-5a60-41b5-98ab-6c57b1f39e9f" width="70" height="65">
 
 #### 🧩 Template Engines:
 <img src="https://github.com/user-attachments/assets/59c913de-573f-4d45-8e44-c322215d9f58" width="40" height="40">
