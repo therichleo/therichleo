@@ -23,6 +23,10 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/6cfc7cbf-8657-4353-8535-5318343b1b1f" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/218fde31-b919-453c-bfb0-ed3ab4e46208" width="40" height="40">
 
+#### 🧩 Template Engines:
+<img src="https://github.com/user-attachments/assets/59c913de-573f-4d45-8e44-c322215d9f58" width="40" height="40">
+<img src="https://github.com/user-attachments/assets/b320e795-b1a6-495c-afa5-d85d30d7930d" width="40" height="40">
+
 #### 🔌 Networking/Realtime I use:
 <img src="https://github.com/user-attachments/assets/c0822d9d-1c03-45cb-ac3a-f251ce631dc7" width="40" height="40">
 <img src="https://github.com/user-attachments/assets/112c8456-a40a-423a-9239-10de85b5789f" width="40" height="40">
@@ -39,9 +43,10 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/06856a13-b700-4270-a892-caca299dcbe1" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/cceed310-5a60-41b5-98ab-6c57b1f39e9f" width="50" height="50">
 
-#### 🧩 Template Engines:
-<img src="https://github.com/user-attachments/assets/59c913de-573f-4d45-8e44-c322215d9f58" width="40" height="40">
-<img src="https://github.com/user-attachments/assets/b320e795-b1a6-495c-afa5-d85d30d7930d" width="40" height="40">
+#### 🖇️ Search and analytics engine I use:
+<img src="https://github.com/user-attachments/assets/ed311a8a-60b8-4eac-acec-713bbfd4d931" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/56cf7989-d8ca-49f7-9343-b6ce7ce23b75" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/0027efbb-fce2-438e-b874-0dd61d4c15bc" width="50" height="50">
 
 #### 🌐 Connect with me:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />](https://www.instagram.com/leonardo.valdesss)
