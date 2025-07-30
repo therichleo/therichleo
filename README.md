@@ -44,7 +44,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 <img src="https://github.com/user-attachments/assets/cceed310-5a60-41b5-98ab-6c57b1f39e9f" width="50" height="50">
 
 #### 🖇️ Search and analytics engine I use:
-<img src="https://github.com/user-attachments/assets/93900c4a-b32a-4d86-ba28-1ba20e0899c5" width="40" height="50">
+<img src="https://github.com/user-attachments/assets/93900c4a-b32a-4d86-ba28-1ba20e0899c5" width="20" height="50">
 <img src="https://github.com/user-attachments/assets/56cf7989-d8ca-49f7-9343-b6ce7ce23b75" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/0027efbb-fce2-438e-b874-0dd61d4c15bc" width="50" height="50">
 
