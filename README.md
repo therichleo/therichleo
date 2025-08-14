@@ -11,7 +11,7 @@ I'm **Leonardo Valdés**, a 3rd-year university student from Chile, studying Sof
 #### 🗄 BDD I use:
 <img src="https://github.com/user-attachments/assets/72b49707-fd80-443e-aed4-de63ddb53eeb" width="40" height="40"> 
 <img src="https://github.com/user-attachments/assets/ab492bea-7d41-4727-a8aa-36c85e110900" width="70" height="40"> 
-<img src="https://github.com/user-attachments/assets/6935f8d8-a37d-47b7-b0f1-423353b1cb3f" width="40" height="60"> 
+<img src="https://github.com/user-attachments/assets/6935f8d8-a37d-47b7-b0f1-423353b1cb3f" width="40" height="50"> 
 
 #### 🧰 Tools I use:
 <img src="https://github.com/user-attachments/assets/014d7899-bda0-4711-a8cd-a1a3d1664d4e" width="40" height="40">
